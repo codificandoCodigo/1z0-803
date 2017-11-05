@@ -11,8 +11,6 @@ package Package1;
 public class ClaseA {
     public static void main(String[] args) {
        Package2.ClaseA ca = new Package2.ClaseA();
-        System.out.println("nombre "+ca.name);
-               
-    
+        System.out.println("nombre "+ca.name);               
     }
 }
