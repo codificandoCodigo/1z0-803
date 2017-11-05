@@ -13,5 +13,6 @@ public class ClaseA {
        Package2.ClaseA ca = new Package2.ClaseA();
         System.out.println("nombre "+ca.name);
                
+    
     }
 }
